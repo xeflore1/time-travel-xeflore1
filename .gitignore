@@ -1,0 +1,11 @@
+# Ignore log and temporary files
+*.log
+*.tmp
+*.temp
+
+# Ignore build output folders
+build/
+dist/
+
+# Ignore operating system generated files
+.DS_Store
