@@ -1,5 +1,5 @@
-<Title>
-<Author>
+CSE 464 Magazine
+Xavier Flores
 
 <Intro>
 <Body>
